@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B0CE8CF2A219EB300E21A07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0CE8CE2A219EB200E21A07 /* ContentView.swift */; };
 		8B2144602A171C57003229FD /* HomeViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B21445F2A171C57003229FD /* HomeViewRow.swift */; };
+		8B5923562A2ED21700305491 /* ContentViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5923552A2ED21700305491 /* ContentViewRow.swift */; };
 		8B74CAD629FA0AE30007FF22 /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B74CAD529FA0AE30007FF22 /* LearningApp.swift */; };
 		8B74CAD829FA0AE30007FF22 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B74CAD729FA0AE30007FF22 /* HomeView.swift */; };
 		8B74CADA29FA0AE40007FF22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B74CAD929FA0AE40007FF22 /* Assets.xcassets */; };
@@ -19,7 +21,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B0CE8CE2A219EB200E21A07 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8B21445F2A171C57003229FD /* HomeViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewRow.swift; sourceTree = "<group>"; };
+		8B5923552A2ED21700305491 /* ContentViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewRow.swift; sourceTree = "<group>"; };
 		8B74CAD229FA0AE30007FF22 /* LearningApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B74CAD529FA0AE30007FF22 /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
 		8B74CAD729FA0AE30007FF22 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -85,6 +89,8 @@
 			children = (
 				8B74CAD729FA0AE30007FF22 /* HomeView.swift */,
 				8B21445F2A171C57003229FD /* HomeViewRow.swift */,
+				8B0CE8CE2A219EB200E21A07 /* ContentView.swift */,
+				8B5923552A2ED21700305491 /* ContentViewRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,7 +194,9 @@
 			files = (
 				8B74CAD829FA0AE30007FF22 /* HomeView.swift in Sources */,
 				8B2144602A171C57003229FD /* HomeViewRow.swift in Sources */,
+				8B0CE8CF2A219EB300E21A07 /* ContentView.swift in Sources */,
 				8B74CAD629FA0AE30007FF22 /* LearningApp.swift in Sources */,
+				8B5923562A2ED21700305491 /* ContentViewRow.swift in Sources */,
 				8B74CAE829FA0CED0007FF22 /* ContentModel.swift in Sources */,
 				8BAC88D52A00B172005D0F5C /* Models.swift in Sources */,
 			);
